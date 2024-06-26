@@ -27,7 +27,8 @@
 - [MusicGen 介绍与推理实现]()
 
 ### API 接口介绍
+- [nn.Conv2D 接口实践](./aigc/API/nn.Conv2d/mindspore.nn.conv2d.md)
 
-- [nn.Conv3D 接口实践]()
+- [nn.Conv3D 接口实践](./aigc/API/nn.Conv3d/mindspore.nn.conv3d.md)
 
 - [...]()
